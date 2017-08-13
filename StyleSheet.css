@@ -1,0 +1,52 @@
+﻿body {
+    background-image : url(https://pbs.twimg.com/media/C6Px9U6UsAAsKdF.jpg);
+    background-repeat:no-repeat;
+    background-size:cover; 
+
+}
+#x{
+    margin:auto;
+     width:100%;
+     color:#628115;
+     font-size:2em;
+     margin-top:75px;
+     margin-bottom:40px;
+    text-align:center;
+}
+.div1{
+ width:40%;
+ background-color:rgba(61, 60, 51, 0.88);
+   height:100%;
+    border-color:flavor;
+    margin:auto;
+     margin-top:30px;
+     overflow:auto;
+}
+.tb1{
+ width:300px;
+float:right;
+     
+     margin:auto;
+     border-color:yellowgreen;
+      
+}
+.v2 {
+  width:200px;
+ float:left;
+    margin:auto;
+   
+      border-color:black;
+}
+p {
+ width:100%;
+  text-align:center; 
+  color:rgb(229, 27, 27);  
+}
+td{
+    text-align:center;
+border: solid #534c4c ;
+color:rgb(229, 27, 27);
+}
+#tm{
+    font-size:medium;
+}
